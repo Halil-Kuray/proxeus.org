@@ -10,11 +10,10 @@ blocks:
         icon: false
         link: 'mailto:info@proxeus.org'
     image:
-      src: /uploads/tina-illustration.webp
-      alt: Tina
+      src: /public/proxeus-developers.jpg
+      alt: Proxeus
     color: default
     _template: hero
   - color: tint
     _template: features
 ---
-
