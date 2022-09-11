@@ -10,10 +10,11 @@ blocks:
         icon: false
         link: 'mailto:info@proxeus.org'
     image:
-      src: /public/proxeus-developers.jpg
+      src: /uploads/proxeus-developers.jpg
       alt: Proxeus
     color: default
     _template: hero
   - color: tint
     _template: features
 ---
+
