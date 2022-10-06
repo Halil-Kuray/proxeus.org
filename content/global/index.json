@@ -16,9 +16,9 @@
   "footer": {
     "color": "default",
     "social": {
-      "facebook": "/",
+      "facebook": "",
       "twitter": "/proxeusapp",
-      "instagram": "/",
+      "instagram": "",
       "github": "https://github.com/ProxeusApp"
     }
   },
