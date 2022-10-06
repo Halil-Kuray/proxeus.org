@@ -26,10 +26,8 @@ blocks:
           color: ''
           style: float
           name: ''
-        title: Here's Another Feature
-        text: >-
-          This is where you might talk about the feature, if this wasn't just
-          filler text.
+        title: Governance
+        text: Guidance on how to get involved in governing the Proxeus project.
       - icon:
           color: ''
           style: float
