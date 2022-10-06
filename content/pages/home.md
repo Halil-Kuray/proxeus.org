@@ -11,7 +11,7 @@ blocks:
         icon: true
         link: 'mailto:info@proxeus.org'
     image:
-      src: /uploads/proxeus-developers.jpg
+      src: /uploads/5e566a93c87b5c104470790a_get-data.png
       alt: Proxeus
     color: default
     _template: hero
