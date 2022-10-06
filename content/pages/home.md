@@ -14,7 +14,5 @@ blocks:
       alt: Proxeus
     color: default
     _template: hero
-  - color: tint
-    _template: features
 ---
 
