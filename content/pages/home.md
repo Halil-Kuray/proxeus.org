@@ -3,7 +3,7 @@ blocks:
   - tagline: ''
     headline: Put your documents on the blockchain
     text: >
-      The Proxeus open-source software allows you to digitize document and make
+      The Proxeus open-source software allows you to digitize documents and make
       them available to third-parties.
     actions:
       - label: Get a demo
