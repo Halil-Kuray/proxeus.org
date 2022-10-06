@@ -31,7 +31,7 @@ blocks:
       - icon:
           color: ''
           style: float
-          name: ''
+          name: user
         title: Users
         text: >-
           Proxeus is used to certify documents or track goods across supply
