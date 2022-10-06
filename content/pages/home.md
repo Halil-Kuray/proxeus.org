@@ -25,7 +25,7 @@ blocks:
       - icon:
           color: ''
           style: float
-          name: ''
+          name: cloud
         title: Governance
         text: Guidance on how to get involved in governing the Proxeus project.
       - icon:
