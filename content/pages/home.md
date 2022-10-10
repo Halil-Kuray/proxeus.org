@@ -10,7 +10,7 @@ blocks:
         type: button
         icon: false
         link: 'https://morrison.proxeus.org/register'
-      - label: Get a demo
+      - label: Get support
         type: link
         icon: true
         link: 'mailto:info@proxeus.org'
