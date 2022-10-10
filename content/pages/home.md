@@ -6,6 +6,10 @@ blocks:
       The Proxeus open-source software allows you to digitize documents and make
       them available to third-parties.
     actions:
+      - label: Check the demo
+        type: button
+        icon: false
+        link: 'https://morrison.proxeus.org/register'
       - label: Get a demo
         type: link
         icon: true
