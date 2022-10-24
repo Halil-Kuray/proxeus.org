@@ -50,8 +50,8 @@ blocks:
       free as an open-source project."
 
 
-      S-Pro, Software development & IT consulting company supporting  the
-      maintenance of Proxeus.
+      [S-Pro](https://s-pro.io/), Software development & IT consulting company
+      supporting  the maintenance of Proxeus.
     color: primary
     _template: content
 ---
