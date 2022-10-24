@@ -42,5 +42,17 @@ blocks:
           chains.
     color: default
     _template: features
+  - body: >
+      > "Proxeus is a platform for quick and convenient document digitalization,
+      signing, processing, and distribution. It allows users to keep their
+      important documents secure and registered on the blockchain. Proxeus
+      empowers anyone to create blockchain applications and is available for
+      free as an open-source project."
+
+
+      S-Pro, Software development & IT consulting company that supports 
+      maintenance of Proxeus.
+    color: primary
+    _template: content
 ---
 
