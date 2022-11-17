@@ -2,8 +2,8 @@
   "header": {
     "icon": {
       "color": "blue",
-      "style": "circle",
-      "name": "world"
+      "style": "",
+      "name": ""
     },
     "color": "default",
     "nav": [
@@ -12,7 +12,7 @@
         "label": "Home"
       },
       {
-        "href": "/about",
+        "href": "about",
         "label": "About"
       }
     ]

@@ -1,12 +1,11 @@
 ---
 blocks:
   - tagline: ''
-    headline: Put your documents on the blockchain
+    headline: Your data. Your blockchain. Your business.
     text: >
-      The Proxeus open-source software allows you to digitize documents and make
-      them available to third-parties.
+      Open source form builder, workflow designer, and document validation. Designed in Switzerland, supported globally.
     actions:
-      - label: Check the demo
+      - label: Demo
         type: button
         icon: false
         link: 'https://morrison.proxeus.org/register'
@@ -25,21 +24,20 @@ blocks:
           style: float
           name: ''
         title: Developers
-        text: Build innovative workflows and Dapps using Proxeus tools.
+        text: Build your Dapps through an innovative workflow tool.
       - icon:
           color: ''
           style: float
           name: cloud
         title: Governance
-        text: Guidance on how to get involved in governing the Proxeus project.
+        text: Participate and gain benefits as we further our mission.
       - icon:
           color: ''
           style: float
           name: user
         title: Users
         text: >-
-          Proxeus is used to certify documents or track goods across supply
-          chains.
+          Certify documents or track goods across supply chains.
     color: default
     _template: features
   - body: >
@@ -50,8 +48,7 @@ blocks:
       free as an open-source project."
 
 
-      [S-Pro](https://s-pro.io/), Software development & IT consulting company
-      supporting  the maintenance of Proxeus.
+      [S-Pro](https://s-pro.io/) software developers & IT consultants
     color: primary
     _template: content
 ---

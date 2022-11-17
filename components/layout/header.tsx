@@ -68,9 +68,9 @@ export const Header = ({ data }) => {
                     color: data.icon.color,
                     style: data.icon.style,
                   }}
-                  className="inline-block h-auto w-10 mr-1"
+                  className="hidden inline-block h-auto w-10 mr-1"
                 />{" "}
-                Proxeus.org
+                Proxeus
               </a>
             </Link>
           </h4>
