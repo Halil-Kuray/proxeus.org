@@ -3,12 +3,13 @@ blocks:
   - tagline: ''
     headline: Your data. Your blockchain. Your business.
     text: >
-      Open source form builder, workflow designer, and document validation. Designed in Switzerland, supported globally.
+      Open source form builder, workflow designer, and document validation.
+      Designed in Switzerland, supported globally.
     actions:
       - label: Demo
         type: button
         icon: false
-        link: 'https://morrison.proxeus.org/register'
+        link: 'https://morrison.proxeus.org/'
       - label: Get support
         type: link
         icon: true
@@ -36,8 +37,7 @@ blocks:
           style: float
           name: user
         title: Users
-        text: >-
-          Certify documents or track goods across supply chains.
+        text: Certify documents or track goods across supply chains.
     color: default
     _template: features
   - body: >
@@ -48,8 +48,9 @@ blocks:
       free as an open-source project."
 
 
-      [S-Pro](https://s-pro.io/) software developers & IT consultants
+      [S-Pro](https://s-pro.io/ "") software developers & IT consultants
     color: primary
     _template: content
 ---
+
 
