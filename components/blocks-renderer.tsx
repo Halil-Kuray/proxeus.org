@@ -17,7 +17,6 @@ export const Blocks = (props: Omit<Page, "id" | "_sys" | "_values">) => {
                     data-tinafield={`blocks.${i}`}
                     key={i + block.__typename}
                   >
-                    
                     <Content data={block} parentField={`blocks.${i}`} />
                   </div>
                 );
