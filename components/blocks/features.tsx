@@ -49,14 +49,16 @@ export const Features = ({ data, parentField }) => {
                 className="w-full h-full"
                 //  src="https://share.vidyard.com/watch/GzpNVpQW228xB5uJxkoWGh"                    //vidyard
                 //   src="https://powercoders.wistia.com/medias/151bs2wyay"                          //wistia
-                src="https://videos.sproutvideo.com/embed/449fdab71c1fe4cbcd/20afa02172f58fcb"   //SPROUT video
+                //src="https://videos.sproutvideo.com/embed/449fdab71c1fe4cbcd/20afa02172f58fcb"   //SPROUT video
+                src="https://player.vimeo.com/video/837487333"   //vimo video
 
                 allowFullScreen
                 ></iframe>
+                <h3 className="text-2xl text-center font-semibold title-font">
+                  Demo Video
+                </h3>
             </div>
-            <h3 className="text-2xl font-semibold title-font">
-              Demo Video
-            </h3>
+            
         </div>
       <Container
         className={`flex flex-wrap gap-x-10 gap-y-8 text-left`}
