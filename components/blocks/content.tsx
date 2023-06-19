@@ -3,6 +3,7 @@ import { Container } from "../util/container";
 import { Section } from "../util/section";
 import { TinaMarkdown } from "tinacms/dist/rich-text";
 import type { TinaTemplate } from "tinacms";
+import { Video } from "./video";
 
 export const Content = ({ data, parentField = "" }) => {
   return (
@@ -14,6 +15,7 @@ export const Content = ({ data, parentField = "" }) => {
         data-tinafield={`${parentField}.body`}
         size="large"
       >
+        <Video/>
         <TinaMarkdown content={data.body} />
       </Container>
     </Section>
