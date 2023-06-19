@@ -43,6 +43,23 @@ export const Feature = ({ featuresColor, data, tinaField }) => {
 export const Features = ({ data, parentField }) => {
   return (
     <Section color={data.color}>
+      <div className="flex-1 flex flex-col gap-1 text-center items-center lg:items-start lg:text-left max-w-xl mx-auto">
+            <div className="self-center max-w-2xl aspect-w-16 aspect-h-9">
+                <iframe
+                className="w-full h-full"
+                //  src="https://share.vidyard.com/watch/GzpNVpQW228xB5uJxkoWGh"                    //vidyard
+                //   src="https://powercoders.wistia.com/medias/151bs2wyay"                          //wistia
+                //src="https://videos.sproutvideo.com/embed/449fdab71c1fe4cbcd/20afa02172f58fcb"   //SPROUT video
+                src="https://player.vimeo.com/video/837487333"   //vimo video
+
+                allowFullScreen
+                ></iframe>
+                <h3 className="text-2xl text-center font-semibold title-font">
+                  Demo Video
+                </h3>
+            </div>
+            
+        </div>
       <Container
         className={`flex flex-wrap gap-x-10 gap-y-8 text-left`}
         size="large"
